@@ -1,0 +1,211 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: yellow;
+}
+body {
+  font-size: 16px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 320px;
+  max-width: 1240px;
+}
+button{
+padding: 10px 10px;
+width: 100%;
+margin-top: 10px;
+
+  background: #fff;
+}
+p{
+  color:rgb(203, 23, 232);
+}
+#resultado{
+  width:100%;
+  border: 5px solid black;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background: #fff;
+}
+a{
+  width: 100%;
+  font-size: 23px;
+      background: #fff;
+}
+strong{
+width: 100%;
+  background: #fff;
+color: red;
+font-weight:bolder;
+font-size: 25px;
+}
+@media (min-width: 320px) and (max-width: 479px){
+  button{
+  padding: 10px 10px;
+  width: 100%;
+  margin-top: 10px;
+
+    background: #fff;
+  }
+  p{
+    color:rgb(203, 23, 232);
+  }
+  #resultado{
+    width:100%;
+    border: 5px solid black;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: #fff;
+  }
+  a{
+    width: 100%;
+    font-size: 23px;
+        background: #fff;
+  }
+strong{
+  width: 100%;
+    background: #fff;
+  color: red;
+  font-weight:bolder;
+  font-size: 25px;
+}
+}
+@media (min-width: 480px) and (max-width: 599px){
+  button{
+  padding: 10px 10px;
+  width: 100%;
+  margin-top: 10px;
+
+    background: #fff;
+  }
+  p{
+    color:rgb(203, 23, 232);
+  }
+  #resultado{
+    width:100%;
+    border: 5px solid black;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: #fff;
+  }
+  a{
+    width: 100%;
+    font-size: 35px;
+        background: #fff;
+  }
+strong{
+  width: 100%;
+    background: #fff;
+  color: red;
+  font-weight:bolder;
+  font-size: 35px;
+}
+}
+
+@media (min-width: 600px) and (max-width: 799px){
+  button{
+  padding: 10px 10px;
+  width: 100%;
+  margin-top: 10px;
+
+    background: #fff;
+  }
+  p{
+    color:rgb(203, 23, 232);
+  }
+  #resultado{
+    width:100%;
+    border: 5px solid black;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: #fff;
+  }
+  a{
+    width: 100%;
+    font-size: 45px;
+        background: #fff;
+  }
+  strong{
+  width: 100%;
+    background: #fff;
+  color: red;
+  font-weight:bolder;
+  font-size: 45px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px){
+  button{
+  padding: 10px 10px;
+  width: 100%;
+  margin-top: 10px;
+
+    background: #fff;
+  }
+  p{
+    color:rgb(203, 23, 232);
+  }
+  #resultado{
+    width:100%;
+    border: 5px solid black;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: #fff;
+  }
+  a{
+    width: 100%;
+    font-size: 55px;
+        background: #fff;
+  }
+  strong{
+  width: 100%;
+    background: #fff;
+  color: red;
+  font-weight:bolder;
+  font-size: 55px;
+  }
+}
+@media (min-width: 1024px){
+  button{
+  padding: 10px 10px;
+  width: 100%;
+  margin-top: 10px;
+
+    background: #fff;
+  }
+  p{
+    color:rgb(203, 23, 232);
+  }
+  #resultado{
+    width:100%;
+    border: 5px solid black;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: #fff;
+  }
+  a{
+    width: 100%;
+    font-size: 65px;
+        background: #fff;
+  }
+  strong{
+  width: 100%;
+    background: #fff;
+  color: red;
+  font-weight:bolder;
+  font-size: 65px;
+  }
+}
